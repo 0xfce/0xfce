@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed aka. xfce</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">Self-taught developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xfce&label=Profile%20views&color=0e75b6&style=flat" alt="xfce" /> </p>
